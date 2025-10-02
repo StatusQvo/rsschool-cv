@@ -84,4 +84,4 @@ function sumMul(n, m) {
 
 
 ### Open Link
-[GitHub Page](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[GitHub Page](https://statusqvo.github.io/rsschool-cv/)
