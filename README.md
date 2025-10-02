@@ -56,6 +56,7 @@ I want to enhance my knowledge and learn more.
 3. [**Guess Number Game**](https://github.com/StatusQvo/Guess-number)  
 
 ---
+
 ### Code Example
 
 [Codewars Kata: Sum of Multiples](https://www.codewars.com/kata/57241e0f440cd279b5000829)
