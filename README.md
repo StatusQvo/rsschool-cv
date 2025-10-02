@@ -81,3 +81,7 @@ function sumMul(n, m) {
 
 ### Languages
 - **English** — C1 *(practical experience: 8 years as tender documentation engineer in Huawei, working primarily in English)*  
+
+
+### Open Link
+[GitHub Page](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
