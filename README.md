@@ -1,12 +1,20 @@
 ##  CV
 ### Main Info
 
-|---------------|-------------------------------|
-| Full Name     | **Savitskaya Darya Andreevna** |
-|---------------|-------------------------------|
-| Contact       | example@gmail.com             |
-| Information   | +998 90 123 45 67             |
-|---------------|-------------------------------|
+
+![CV Photo](https://postimg.cc/q6h7n8zb)
+
+|-------------|--------------------------------------------------------------------|
+| Full Name   | **Savitskaya Darya Andreevna**                                     |
+|-------------|--------------------------------------------------------------------|
+| Contact     |   *** Telegram ***   |   *** Phone ***   |      *** mail ***       |
+| Information |--------------------------------------------------------------------|
+|             | https://t.me/LifeKoZ | +998 90 186-02-81 | statusqvogerz@gmail.com |
+|             |--------------------------------------------------------------------|
+|             | [ *** GiHub Repository *** ] (github.com/StatusQvo/rsschool-cv)    |
+|             |--------------------------------------------------------------------|
+|             |                               |
+|-------------|-------------------------------|
 Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
 Code Examples
