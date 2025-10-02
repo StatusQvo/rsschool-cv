@@ -2,7 +2,7 @@
 ### Main Info
 
 | Full Name    | ** Savitskaya Darya Andreevna ** |
-  Contact 
+|  Contact     |
 | Information  |
 Brief Self-Introduction (your goals and priorities, emphasize your strengths, describe your work experience if applicable, or your desire to learn and acquire new skills)
 Skills (programming languages, frameworks, methodologies, version control systems, and development tools you are proficient in)
